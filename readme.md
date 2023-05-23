@@ -27,14 +27,14 @@ Traditional QRCode
 QRCode with Circle "Blocks"
 
 ![QRCode Mesh](../media/meshqrcode4.png?raw=true)
-QRCode with Circle "Blocks"
+QRCode Z-Axis Pyramid Deoformation"
 
 ![QRCode Mesh](../media/meshqrcode5.png?raw=true)
-QRCode with Circle "Blocks"
+QRCode with Solidifier"
 
 ![QRCode Mesh](../media/meshqrcode6.png?raw=true)
-QRCode with Circle "Blocks"
+QRCode as boolean cutter into another object"
 
 ![QRCode Mesh](../media/meshqrcode7.png?raw=true)
-QRCode with Circle "Blocks"
+QRCode as boolean cutter into another object"
 
