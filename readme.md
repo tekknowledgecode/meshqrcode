@@ -1,5 +1,5 @@
 # Blender QRCode Creater
-
+![QRCode Mesh](../media/tkk.png?raw=true)
 ---
 
 This Blender Addon will allow you to create a QRCode with some unique features:
