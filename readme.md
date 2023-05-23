@@ -38,7 +38,9 @@ QRCode as boolean cutter into another object"
 ![QRCode Mesh](../media/meshqrcode7.png?raw=true)
 QRCode as boolean cutter into another object"
 
-**This is an example of how you might use a QRCode with Pyramid Deformation and Solidify to put hair on a simple character where the QRCode only "comes into view" from the top of head view".
+
+**This is an example of how you might use a QRCode with Pyramid Deformation and Solidify to put hair on a simple character where the QRCode only "comes into view" from the top of head view".**
+
 
 
 ![QRCode Mesh](../media/meshqrcode9.png?raw=true)
