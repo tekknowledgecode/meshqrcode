@@ -38,3 +38,11 @@ QRCode as boolean cutter into another object"
 ![QRCode Mesh](../media/meshqrcode7.png?raw=true)
 QRCode as boolean cutter into another object"
 
+![QRCode Mesh](../media/meshqrcode11.png?raw=true)
+QRCode as Hair Step 1"
+
+![QRCode Mesh](../media/meshqrcode12.png?raw=true)
+QRCode as Hair Step 2"
+
+![QRCode Mesh](../media/meshqrcode13.png?raw=true)
+QRCode as Hair Step 3"
