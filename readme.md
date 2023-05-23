@@ -18,3 +18,10 @@ This addon requires the Python qrcode module be installed within your Blender en
 To Install, simply download the zip and use the Blender Addon installation process.  Once installed the Addon UI will be available from the Right side of the 3DView pullout.
 
 ![QRCode Mesh](../media/meshqrcode1.png?raw=true)
+Main User Interface
+
+![QRCode Mesh](../media/meshqrcode2.png?raw=true)
+Traditional QRCode
+
+![QRCode Mesh](../media/meshqrcode3.png?raw=true)
+QRCode with Circle "Blocks"
