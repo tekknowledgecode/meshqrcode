@@ -25,3 +25,16 @@ Traditional QRCode
 
 ![QRCode Mesh](../media/meshqrcode3.png?raw=true)
 QRCode with Circle "Blocks"
+
+![QRCode Mesh](../media/meshqrcode4.png?raw=true)
+QRCode with Circle "Blocks"
+
+![QRCode Mesh](../media/meshqrcode5.png?raw=true)
+QRCode with Circle "Blocks"
+
+![QRCode Mesh](../media/meshqrcode6.png?raw=true)
+QRCode with Circle "Blocks"
+
+![QRCode Mesh](../media/meshqrcode7.png?raw=true)
+QRCode with Circle "Blocks"
+
