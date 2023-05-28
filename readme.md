@@ -14,6 +14,7 @@ This Blender Addon will allow you to create a QRCode with some unique features:
 This addon requires the Python qrcode module be installed within your Blender environment.
 
 **import pip**
+
 **pip.main(['install', 'qrcide', '--user'])**
 
 **Installation**
