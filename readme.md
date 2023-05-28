@@ -2,6 +2,9 @@
 ![QRCode Mesh](../media/tkk.png?raw=true)
 ---
 
+### I am new to Blender and Addon Development!
+### This code is going to require a lot of work and refactoring!
+
 This Blender Addon will allow you to create a QRCode with some unique features:
 
 1)  Create QRCode with traditional block look.
