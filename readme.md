@@ -1,4 +1,4 @@
-# Blender QRCode Creater
+# Blender QRCode Creater (Alpha)
 ![QRCode Mesh](../media/tkk.png?raw=true)
 ---
 
