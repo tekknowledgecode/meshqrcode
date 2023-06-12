@@ -34,7 +34,7 @@ Traditional QRCode
 QRCode with Circle "Blocks"
 
 ![QRCode Mesh](../media/meshqrcode4.png?raw=true)
-QRCode Z-Axis Pyramid Deoformation"
+QRCode Z-Axis Pyramid Deformation"
 
 ![QRCode Mesh](../media/meshqrcode5.png?raw=true)
 QRCode with Solidifier"
