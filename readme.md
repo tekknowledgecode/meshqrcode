@@ -18,7 +18,7 @@ This addon requires the Python qrcode module be installed within your Blender en
 
 **import pip**
 
-**pip.main(['install', 'qrcide', '--user'])**
+**pip.main(['install', 'qrcode', '--user'])**
 
 **Installation**
 
